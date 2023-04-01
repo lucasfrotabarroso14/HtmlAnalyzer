@@ -2,7 +2,7 @@
 
 Visão geral:
 
-O projeto faz a análise de uma página HTML, carregando seu conteúdo e encontrando o texto mais profundo presente no código O programa nao utiliza bibliotecas e frameworks externos ao JDK como foi solicitado
+O projeto faz a análise de uma página HTML, através de uma URL, carregando seu conteúdo e encontrando o texto dentro da tag HTML mais profunda o programa nao utiliza bibliotecas e frameworks externos ao JDK como foi solicitado
 
 
 Bibliotecas Utilizadas: 
