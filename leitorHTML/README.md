@@ -1,4 +1,4 @@
-Projeto utilizado na seleção para à vaga de Software Development Intern na AXUR
+
 
 Visão geral:
 
